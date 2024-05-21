@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Port-logo" src="https://raw.githubusercontent.com/alefecrz/bethehero/368b59783dabe247dac90f61bcec1c453dd6afbe/assets/logo.svg](https://raw.githubusercontent.com/alefecruz/plop-generate/master/logo.png" width="200px" />
+    <img alt="Port-logo" src="https://raw.githubusercontent.com/alefecruz/plop-generate/master/logo.png" width="200px" />
 </h1>
 <div  align="center">
   <h3>
